@@ -1,0 +1,20 @@
+{
+  "name": "hyperlocalservicemarketplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tulika27/HyperlocalServiceMarketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tulika27/HyperlocalServiceMarketplace/issues"
+  },
+  "homepage": "https://github.com/Tulika27/HyperlocalServiceMarketplace#readme",
+  "description": ""
+}
