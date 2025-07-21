@@ -10,7 +10,7 @@ trim: true,
 },
 email: {
 type: String,
-required: [true, 'Email is required'],
+required: [true, 'Email required'],
 unique: true,
 lowercase: true,
 trim: true,
